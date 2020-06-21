@@ -1,0 +1,9 @@
+Package: gq.8a1wkar.dotscolor
+Name: Dots color
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), com.spark.libsparkcolourpicker
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Change dots color in home screen and lock screen. 
+Maintainer: 8a1wkar
+Author: 8a1wkar
+Section: Tweaks
